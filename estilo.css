@@ -1,0 +1,28 @@
+body{
+	background-color: #F6CED8;
+}
+.titulo{
+	color: #0000FF;
+	text-decoration: underline;
+	text-align: center;
+}
+.hdatos{
+	color: #B45F04;
+	text-decoration: underline;
+}
+.color-p{
+  background-color: #000000;
+  color: #01DF01;
+}
+.parrafo-contenido{
+	color: #0101DF;
+}
+.borde-img{
+	border: #FF8000 15PX double;
+	padding: 2px;
+	margin-top: 40x;
+}
+.titulos2{
+	color: #B40404;
+	text-decoration: underline;
+}
